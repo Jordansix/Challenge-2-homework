@@ -22,3 +22,5 @@ Started to space out my paragraph's so they dont look all cluttered.
 
 Added the about me paragraph.
 
+Placing the Work section in the middle of contact and about sections.
+
