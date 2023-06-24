@@ -24,3 +24,5 @@ Added the about me paragraph.
 
 Placing the Work section in the middle of contact and about sections.
 
+Changed the margin for the contact info it doesn't appear way at the bottom.
+
