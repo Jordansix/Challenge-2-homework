@@ -14,12 +14,10 @@ header {
     color:blanchedalmond;
     font-family: Arial, Helvetica, sans-serif;
     font-size: larger;
-    
+
 }
 
-.pic {
-    background-image: url("IMG_0352.JPG");
-}
+
 
 a {
     color: rgb(152, 154, 174);
@@ -28,6 +26,27 @@ a {
 
 .float-right {
     float: right;
-    margin-left: 5%;
+    margin-right: 1%;
     margin-top: 1%;
+}
+
+.About-Me {
+    font-size: 150%;
+    margin-top: 2%;
+    margin-left: 1%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.Contact-Info {
+    font-size: 110%;
+    margin-top: 2%;
+    margin-left: 2%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+p {
+    font-size: larger;
+    font-style: italic;
+    margin-top: 1%;
+    margin-left: 2%;
 }
