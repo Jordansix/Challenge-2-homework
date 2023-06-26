@@ -28,3 +28,4 @@ Changed the margin for the contact info it doesn't appear way at the bottom.
 
 Added some line height into my paragraph element.
 
+Added emojis to the head elements.
