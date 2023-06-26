@@ -8,7 +8,9 @@ body{
     background: #d9d9d9;
 }
 
-
+nav {
+    position: unset;
+}
 
 header {
     padding: 50px;
@@ -58,5 +60,5 @@ p {
     font-style: italic;
     margin-top: 1%;
     margin-right: 1%;
-    
+    line-height: 2.0rem;
 }
